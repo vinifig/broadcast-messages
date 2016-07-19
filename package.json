@@ -1,0 +1,15 @@
+{
+  "name": "broadcast-communication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "netmask": "^1.0.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
