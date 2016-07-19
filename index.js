@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 'use strict';
 const dgram = require('dgram');
 const client = dgram.createSocket('udp4');
